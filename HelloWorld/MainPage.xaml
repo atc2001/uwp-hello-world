@@ -9,6 +9,7 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
+        <Button Content="Hello World" HorizontalAlignment="Center" VerticalAlignment="Center"/>
 
     </Grid>
 </Page>
